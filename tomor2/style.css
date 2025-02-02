@@ -1,0 +1,256 @@
+/* *{padding: 0; margin-top: 0;} */
+@font-face 
+{font-family: DancingScript-Regular;
+    
+    src: url('polices/DancingScript-Regular.ttf');
+}
+header{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+   justify-content: space-around;
+  background-color:rgb(150, 131, 106);
+  height: 100px;
+  margin: -8px
+  
+}
+
+
+
+a{
+    padding: 10px;
+    color:black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: DancingScript-Regular;
+    
+
+
+}
+a:hover{
+    background-color: #3e3e3e;
+    color: rgb(255, 219, 173) ;
+    transition: 1s;
+    border-radius: 8px;
+    justify-content: space-between ;
+}
+
+
+.logo{
+    color: black;
+    text-shadow: 0 0 6px#4d4d4dc0, 0 0 12px #4d4d4db6,0 0 4px#4d4d4dac , 0 0 30px #4d4d4da1;
+}
+.nas{
+    color: rgb(239, 217, 188);
+    background-color:#4d4d4d ;
+   
+    position: relative;
+    padding: 20px;
+    font-family:  DancingScript-Regular;
+    font-family: DancingScript-Regular;
+    margin:20px ;
+    margin-left: 10px;
+    
+    
+}
+.nas1{
+    color: rgb(239, 217, 188);
+    background-color:#4d4d4d ;
+    margin-top: 200px;
+    position: relative;
+    padding: 20px;
+    font-family:  DancingScript-Regular;
+    font-family: DancingScript-Regular;
+    margin-right: 70px;
+    box-shadow: 8px 8px 8px #676767;
+
+    
+}
+   
+   
+
+
+.bodyy{
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.bodyy img{
+    position: absolute;
+}
+.bodyy.nas{
+    margin-top: 200px;
+}
+.onwan1{
+    margin-top: 240px;
+    text-align: center;
+    font-family:  DancingScript-Regular;
+    color: #d5c2a0;
+}
+.onwan2{
+    margin-top: 90px;
+    text-align: center;
+    font-family:  DancingScript-Regular;
+    color: #d5c2a0;
+   
+}
+.onwan3{
+    margin-top: 30px;
+    text-align: center;
+    font-family:  DancingScript-Regular;
+    color: #d5c2a0;
+}
+.kona{
+    color:#545b6e ;
+}
+.lkater{
+    border: solid 1px;
+    padding: 20px;
+    background-color: #d5c2a0;
+    color: #545b6e;
+    width: 900px;
+    text-align: center;
+    height: 350px;
+
+}
+/* .kona{
+    width: 1500px;
+} */
+section{
+    display: flex;
+    padding: 50px;
+    
+}
+button{
+    background-color: transparent;
+    padding: 10px;
+    color: aliceblue;
+    border: solid white;
+}
+.tsawer{
+ 
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #676767;
+}
+
+.tsawer2{
+   
+    padding: 10px;
+    text-align: center;
+    border-radius: 12px;
+    color: #676767;
+    margin-left: 80px;
+    justify-content: space-between 50px;
+}
+/* .tsawer2 p{
+    padding: 10px;
+}
+.tsawer2 h1{
+    padding: 10px;
+} */
+.tsawer22{
+    padding-left:150px ;
+}
+.tsawer2 img{
+    border-radius: 25px;
+}
+.Contact{
+    
+    padding: 20px;
+    width: 550px;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    padding-left:29% ;
+    overflow: hidden;
+    position: relative;
+   
+}
+input{
+    margin: 10px;
+    background-color: #e7e7e763;
+    border: #f7f7f7;
+    width: 500px;
+    height: 25px;
+    padding: 7px;
+    border-radius:5px;
+}
+/* label{
+    position: absolute; 
+} */
+textarea{
+    margin: 10px;
+    background-color: #e7e7e763;
+    border: #f7f7f7;
+    width: 500px;
+    height: 25px;
+    padding: 7px;
+    border-radius:5px;
+}
+.t1{
+    color: #d5c2a0;
+    border: solid rgb(132, 127, 127);
+    background-color: #212121;
+    padding: 15px;
+    padding-right:20px ;
+    margin-left: 43%;
+}
+.t2{
+    display: flex;
+    border: solid;
+    background-color: #212121;
+    color: white;
+    height: 270px;
+    /* padding: 10px; */
+    margin: 20px;
+}
+.t3{
+    border: solid 1px #d5c1a074;
+   
+    width: 700px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+    margin: 40px;
+   padding-left: 20px;
+   margin-left: 90px;
+   /* margin-right: 90px; */
+}
+.t3:hover{
+    border: solid 2px  #d5c1a088;
+}
+h3{
+    font-family:  DancingScript-Regular;
+    color: #d5c2a0;
+}
+
+.t4{
+    border: solid 1px   #d5c2a0;
+    justify-items:center ;
+    width: 25%;
+    
+    padding: 15px;
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+    /* margin: 80px; */
+}
+.Phone{
+    font-family:  DancingScript-Regular;
+    color: #d5c2a0;
+}
+.order{
+    border: solid 1px  #d5c2a0;
+    padding: 10px;
+    
+}
+
+
+
